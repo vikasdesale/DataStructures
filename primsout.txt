@@ -1,0 +1,17 @@
+Enter the no. of vertices:- 3
+
+Enter the costs of edges in matrix form:-
+99 2 3
+2 99 5
+3 5 99
+
+The matrix is:-
+99      2       3
+2       99      5
+3       5       99
+
+The min spanning tree is:-
+0  1  2
+2  0  3
+
+Min cost:- 5

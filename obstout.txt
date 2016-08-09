@@ -1,0 +1,1 @@
+Cost of Optimal BST is 142 
